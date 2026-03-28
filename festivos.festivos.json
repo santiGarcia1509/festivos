@@ -1,0 +1,184 @@
+[{
+  "_id": {
+    "$oid": "69c47aaeba546155210587ed"
+  },
+  "nombre": "Año nuevo",
+  "dia": 1,
+  "mes": 1,
+  "tipo": 1,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "69c47aaeba546155210587ee"
+  },
+  "nombre": "Día del Trabajo",
+  "dia": 1,
+  "mes": 5,
+  "tipo": 1,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "69c47aaeba546155210587ef"
+  },
+  "nombre": "Independencia Colombia",
+  "dia": 20,
+  "mes": 7,
+  "tipo": 1,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "69c47aaeba546155210587f0"
+  },
+  "nombre": "Batalla de Boyacá",
+  "dia": 7,
+  "mes": 8,
+  "tipo": 1,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "69c47aaeba546155210587f1"
+  },
+  "nombre": "Inmaculada Concepción",
+  "dia": 8,
+  "mes": 12,
+  "tipo": 1,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "69c47aaeba546155210587f2"
+  },
+  "nombre": "Navidad",
+  "dia": 25,
+  "mes": 12,
+  "tipo": 1,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "69c47aaeba546155210587f3"
+  },
+  "nombre": "Santos Reyes",
+  "dia": 6,
+  "mes": 1,
+  "tipo": 2,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "69c47aaeba546155210587f4"
+  },
+  "nombre": "San José",
+  "dia": 19,
+  "mes": 3,
+  "tipo": 2,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "69c47aaeba546155210587f5"
+  },
+  "nombre": "San Pedro y San Pablo",
+  "dia": 29,
+  "mes": 6,
+  "tipo": 2,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "69c47aaeba546155210587f6"
+  },
+  "nombre": "Asunción de la Virgen",
+  "dia": 15,
+  "mes": 8,
+  "tipo": 2,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "69c47aaeba546155210587f7"
+  },
+  "nombre": "Día de la Raza",
+  "dia": 12,
+  "mes": 10,
+  "tipo": 2,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "69c47aaeba546155210587f8"
+  },
+  "nombre": "Todos los santos",
+  "dia": 1,
+  "mes": 11,
+  "tipo": 2,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "69c47aaeba546155210587f9"
+  },
+  "nombre": "Independencia de Cartagena",
+  "dia": 11,
+  "mes": 11,
+  "tipo": 2,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "69c47aaeba546155210587fa"
+  },
+  "nombre": "Jueves Santo",
+  "tipo": 3,
+  "diasPascua": -3,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "69c47aaeba546155210587fb"
+  },
+  "nombre": "Viernes Santo",
+  "tipo": 3,
+  "diasPascua": -2,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "69c47aaeba546155210587fc"
+  },
+  "nombre": "Domingo de Pascua",
+  "tipo": 3,
+  "diasPascua": 0,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "69c47aaeba546155210587fd"
+  },
+  "nombre": "Ascensión del Señor",
+  "tipo": 4,
+  "diasPascua": 40,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "69c47aaeba546155210587fe"
+  },
+  "nombre": "Corpus Christi",
+  "tipo": 4,
+  "diasPascua": 61,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "69c47aaeba546155210587ff"
+  },
+  "nombre": "Sagrado Corazón",
+  "tipo": 4,
+  "diasPascua": 68,
+  "__v": 0
+}]
